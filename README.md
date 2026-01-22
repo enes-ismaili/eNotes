@@ -56,13 +56,6 @@ This machine is designed for practicing:
 
 - **Mega.nz:** [Download Link](YOUR_MEGA_LINK)
 
-### Verification
-```bash
-# Verify SHA256 checksum after download
-sha256sum eNotes.7z
-# Should match: [YOUR_SHA256_HASH_HERE]
-```
-
 ---
 
 ## 🚀 Setup Instructions
