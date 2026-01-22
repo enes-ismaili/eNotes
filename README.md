@@ -144,14 +144,14 @@ This project is free and open-source. You may use, modify, and distribute it fre
 
 - **Inspired by:** [SecNotes](https://www.hackthebox.com/machines/secnotes) by [0xdf](https://0xdf.gitlab.io/)
 - **Course Reference:** [TCM Security - Windows Privilege Escalation](https://academy.tcm-sec.com/)
-- **Created by:** [Enes Ismaili](YOUR_LINKEDIN)
+- **Created by:** [Enes Ismaili](https://www.linkedin.com/in/enes-ismaili/)
 
 ---
 
 ## 📞 Contact
 
 - **GitHub:** [@enes-ismaili](https://github.com/enes-ismaili)
-- **LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN)
+- **LinkedIn:** [[Your LinkedIn Profile](YOUR_LINKEDIN](https://www.linkedin.com/in/enes-ismaili/))
 
 ---
 
