@@ -76,44 +76,6 @@ This machine is designed for practicing:
 
 ---
 
-## 🎯 Attack Methodology
-
-### Enumeration
-```bash
-# Port scanning
-nmap -sV -sC -p- <VM_IP>
-
-# Expected open ports:
-# 80   - HTTP (eNotes web application)
-# 445  - SMB
-# 8808 - HTTP (IIS default page)
-```
-
-### Initial Access
-
-Two main paths:
-
-#### Path 1: Cross-Site Request Forgery (XSRF)
-- Exploit password change functionality
-- No CSRF token protection
-- Accepts GET requests
-
-#### Path 2: Second-Order SQL Injection
-- Register with malicious username
-- Bypass authentication logic
-- Retrieve all users' notes
-
-### Privilege Escalation
-
-- Enumerate SMB shares
-- Upload webshell via SMB
-- Gain user-level shell
-- Enumerate Windows Subsystem for Linux (WSL)
-- Extract credentials from bash history
-- Escalate to Administrator
-
----
-
 ## 🏁 Flags
 
 - **User Flag:** Located at `C:\Users\enes\Desktop\user.txt`
