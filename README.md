@@ -151,7 +151,7 @@ This project is free and open-source. You may use, modify, and distribute it fre
 ## 📞 Contact
 
 - **GitHub:** [@enes-ismaili](https://github.com/enes-ismaili)
-- **LinkedIn:** [[Your LinkedIn Profile](YOUR_LINKEDIN](https://www.linkedin.com/in/enes-ismaili/))
+- **LinkedIn:** https://www.linkedin.com/in/enes-ismaili/
 
 ---
 
