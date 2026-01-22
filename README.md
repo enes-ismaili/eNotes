@@ -1,4 +1,4 @@
-# eNotes - Free CTF VM Machine
+# eNotes - Windows Privilege Escalation Lab
 
 ![eNotes Banner](https://img.shields.io/badge/Difficulty-Medium-orange) ![Platform](https://img.shields.io/badge/Platform-Windows%2010-blue) ![License](https://img.shields.io/badge/License-Free-green)
 
