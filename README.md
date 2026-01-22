@@ -50,11 +50,10 @@ This machine is designed for practicing:
 - **Compressed Size:** 19.5 GB
 - **Extracted Size:** ~22 GB
 - **Format:** OVA (compatible with VMware/VirtualBox)
-- **SHA256:** `[YOUR_SHA256_HASH_HERE]`
 
 ### Download Links
 
-- **Mega.nz:** [Download Link](YOUR_MEGA_LINK)
+- **Mega.nz:** [Download Link](https://mega.nz/file/nagxSTCB#TUMP4Ddtw9e8t630zh06I4ETzD7-Tg0nSUDtszdcupM)
 
 ---
 
