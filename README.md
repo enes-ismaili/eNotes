@@ -69,20 +69,10 @@ This machine is designed for practicing:
 
 ### Installation Steps
 
-1. **Extract the archive:**
-```bash
-   7z x eNotes.7z
-```
-
-2. **Import the OVA:**
-   - **VMware:** File → Open → Select `eNotes.ova`
-   - **VirtualBox:** File → Import Appliance → Select `eNotes.ova`
-
-3. **Network Configuration:**
-   - Set network adapter to **NAT** or **Bridged**
-   - Note the VM's IP address after boot
-
-4. **Start the VM** and begin your attack!
+1. Download the VM from the link below  
+2. Import it into **VirtualBox** or **VMware**  
+3. Configure networking as **NAT** or **Host-Only**  
+4. Start the machine and begin enumeration  
 
 ---
 
