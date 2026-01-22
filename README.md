@@ -109,14 +109,6 @@ sudo netdiscover -r 192.168.1.0/24
 # OR
 sudo arp-scan -l
 ```
-
-### SMB password issues
-The password contains special characters (`%`). Use:
-```bash
-smbclient //[VM_IP]/new-site -U enes
-# Enter password when prompted: Zk9@mN7PQjRwmK%LP*&
-```
-
 ---
 
 ## ⚠️ Disclaimer
