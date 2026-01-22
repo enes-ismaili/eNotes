@@ -121,7 +121,7 @@ This VM is for **educational purposes only**. It contains intentional vulnerabil
 Found an issue or have suggestions? Feel free to:
 - Open an issue
 - Submit a pull request
-- Contact me on [LinkedIn](YOUR_LINKEDIN)
+- Contact me on [LinkedIn](https://www.linkedin.com/in/enes-ismaili/)
 
 ---
 
