@@ -49,7 +49,7 @@ This machine is designed for practicing:
 - **Filename:** `eNotes.7z`
 - **Compressed Size:** 19.5 GB
 - **Extracted Size:** ~22 GB
-- **Format:** OVA (compatible with VMware/VirtualBox)
+- **Format:** .vmdk (compatible with VMware/VirtualBox)
 
 ### Download Links
 
